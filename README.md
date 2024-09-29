@@ -3,7 +3,7 @@ Link is a library created as a interface between two or more softwares.
 It implement an abstraction of the vanilla socket system for communication between distant 
 machines, but with its packet's listener system, it can also be use for thread based softwares.
 
-# How to use the library
+# How to use the sources
 Intended to be used on any platform, the project use the cross-platform library *libsocket* that can 
 be found at https://github.com/dermesser/libsocket
 
